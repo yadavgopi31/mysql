@@ -120,7 +120,7 @@ Additionally I'd like to thank the following people:
 ## Sponsors
 
 The following companies have supported this project financially, allowing me to
-spend more time on it (ordered by time of contribution):
+spend more time on it (ordered by time of contribution):dfdddsf
 
 * [Transloadit](http://transloadit.com) (my startup, we do file uploading &
   video encoding as a service, check it out)
